@@ -10,7 +10,7 @@ function App() {
     <>
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<Navbar title="My Portfolio" />}>
+          <Route path="my_portfolio" element={<Navbar title="My Portfolio" />}>
             <Route index element={<Portfolio />} />
             <Route path="contact" element={<Contact />} />
           </Route>

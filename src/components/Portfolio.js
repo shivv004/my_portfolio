@@ -39,13 +39,13 @@ export default function Portfolio() {
     </style>
     <div>
       <div className="text-center" id="main">
-        <img id="image" src="self.png" className="rounded" alt="Shiv Shankar"/>
+        <img id="image" src="my_portfolio/self.png" className="rounded" alt="Shiv Shankar"/>
         <div id="content">
             <h1>Shiv Shankar</h1>
             <br></br>
             <p>Greetings! I'm Shiv Shankar, a passionate and results-driven B.Tech Computer Science under-graduate with a focus on full-stack software development. My journey in the tech realm has equipped me with a diverse skill set, enabling me to seamlessly navigate both front-end and back-end development.<br></br> Proficient in JavaScript, React Js, Bootstrap, C/C++, Node.js, Express.js, and PHP, I thrive on transforming creative ideas into robust, user-friendly applications. My expertise extends to database management with proficiency in mySQL and MongoDB. What sets me apart is not just my technical acumen but also my collaborative spirit—I thrive in team environments and believe in the power of collective innovation. Let's connect and explore the possibilities of creating impactful digital experiences together.</p>
             <br></br>
-            <a href="Shiv_Shankar_cv.pdf" target="_blank" rel="noreferrer"><button className="btn btn-outline-success">Download my CV</button></a>
+            <a href="my_portfolio/Shiv_Shankar_cv.pdf" target="_blank" rel="noreferrer"><button className="btn btn-outline-success">Download my CV</button></a>
         </div>
       </div>
     </div>
